@@ -1,7 +1,9 @@
-## 6.0.0-rc-4
+## 6.0.3
+- Changed iOS default_package from ruut_inappwebview_ios to flutter_inappwebview_ios
 
-- Updated ruut_inappwebview_ios to support `OrderedSet` version `6.0.3` with the right Privacy Manifest
-- Merged "Added == operator and hashCode to WebUri" [#1941](https://github.com/pichillilorenzo/flutter_inappwebview/pull/1941) (thanks to [daisukeueta](https://github.com/daisukeueta))
+## 6.0.2
+
+- Updated asset paths
 
 ## 6.0.0
 

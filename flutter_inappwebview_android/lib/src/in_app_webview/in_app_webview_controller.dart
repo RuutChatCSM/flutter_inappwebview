@@ -2739,12 +2739,12 @@ class AndroidInAppWebViewController extends PlatformInAppWebViewController
   }
 
   @override
-  Future<String> get tRexRunnerHtml async => await rootBundle.loadString(
-      'packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html');
+  Future<String> get tRexRunnerHtml async => await rootBundle
+      .loadString('packages/ruut_inappwebview/assets/t_rex_runner/t-rex.html');
 
   @override
-  Future<String> get tRexRunnerCss async => await rootBundle.loadString(
-      'packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css');
+  Future<String> get tRexRunnerCss async => await rootBundle
+      .loadString('packages/ruut_inappwebview/assets/t_rex_runner/t-rex.css');
 
   @override
   dynamic getViewId() {
