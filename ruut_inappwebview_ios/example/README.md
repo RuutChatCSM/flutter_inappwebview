@@ -1,6 +1,6 @@
-# flutter_inappwebview_ios_example
+# ruut_inappwebview_ios_example
 
-Demonstrates how to use the flutter_inappwebview_ios plugin.
+Demonstrates how to use the ruut_inappwebview_ios plugin.
 
 ## Getting Started
 
